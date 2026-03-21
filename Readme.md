@@ -17,9 +17,7 @@
   <img src="https://user-images.githubusercontent.com/46247882/87126810-77e5d000-c2aa-11ea-832f-70aa4fe394f9.gif" width="150" height="150" />
 </p>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-techai&show_icons=true&theme=tokyonight" />
-</p>
+
 
 ---
 
