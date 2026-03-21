@@ -77,19 +77,7 @@
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 </p>
-### 💻 Languages
-HTML5, CSS3, JavaScript, MySQL  
 
-### ⚛️ Frontend
-React.js, Tailwind CSS, DOM, Event Handling, TypeScript  
-
-### 🗄️ Backend & Database
-Node.js, Express.js, MongoDB, REST APIs  
-
-### 🔧 Tools
-Git, GitHub, Postman, VS Code  
-
----
 
 ## 🧠 Concepts
 
