@@ -24,7 +24,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.E. in Information Technology (Chandigarh University)  
-- 💻 Full Stack Developer (Fresher)  
+- 💻 Full Stack Developer  
 - ⚛️ Strong in React.js & Frontend Development  
 - 🌱 Learning advanced MERN stack & backend systems  
 - 📫 Email: **priyanshu.official2326@gmail.com**  
