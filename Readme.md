@@ -47,10 +47,12 @@
 
 ---
 
-### 🔹 Task Management Application
-- Create, update, delete, and track tasks
-- Real-time UI updates using React Hooks
-- **Tech Stack:** React.js, JavaScript  
+ ### 🔹 My Own ChatGPT Tool
+- Built an AI-powered response generation tool using Gemini API
+- Developed a dynamic interface for user input and real-time content generation
+- Optimized API handling and state management using React Hooks
+- Focused on fast rendering and seamless user experience
+- **Tech Stack:** React.js, JavaScript, Gemini API
 
 ---
 
