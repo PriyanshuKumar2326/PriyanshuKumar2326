@@ -47,7 +47,7 @@
 
 ---
 
- ### 🔹 My Own ChatGPT Tool
+ ### 🔹 My Own ChatGPT AI-Tool (GEMINI_API_KEY) 
 - Built an AI-powered response generation tool using Gemini API
 - Developed a dynamic interface for user input and real-time content generation
 - Optimized API handling and state management using React Hooks
